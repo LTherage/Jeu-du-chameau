@@ -172,9 +172,9 @@ ctest
 
 ## 🤗 Contributing
 
-- **💬 [Join the Discussions](https://github.com/LTherage/Jeu-du-chameau/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/LTherage/Jeu-du-chameau/issues)**: Submit bugs found or log feature requests for the `Jeu-du-chameau` project.
-- **💡 [Submit Pull Requests](https://github.com/LTherage/Jeu-du-chameau/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 Share your insights, provide feedback, or ask questions.
+- **🐛 Submit bugs found or log feature requests for the `Jeu-du-chameau` project.
+- **💡 Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -219,9 +219,6 @@ Jeu-du-chameau is protected under the [LICENSE](https://choosealicense.com/licen
 
 ---
 
-## 👏 Acknowledgments
-
-- Credit `contributors`, `inspiration`, `references`, etc.
 
 <div align="right">
 
