@@ -53,7 +53,7 @@
 
 ## 🦄 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Jeu du chameau réalisé en C pour comprendre et m'initier au langage </code>
 
 ---
 
@@ -164,9 +164,8 @@ ctest
 
 ## ✨ Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [X] **`Task 1`**: <strike> Jeu du chameau initialisation + fonctionnalités.</strike>
+- [ ] **`Task 2`**: Version graphique et plus joli.
 
 ---
 
